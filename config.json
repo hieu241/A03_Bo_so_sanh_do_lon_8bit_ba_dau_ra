@@ -1,0 +1,13 @@
+{
+  "DESIGN_NAME": "tt_um_a03_comparator",
+  "VERILOG_FILES": [
+    "dir::src/project.v"
+  ],
+  "CLOCK_TREE_SYNTH": false,
+  "CLOCK_PORT": null,
+  "CLOCK_PERIOD": 10.0,
+  "FP_SIZING": "absolute",
+  "DIE_AREA": "0 0 168.53 111.15",
+  "DESIGN_IS_CORE": 0,
+  "RT_MAX_LAYER": "Met4"
+}
