@@ -9,5 +9,5 @@
   "FP_SIZING": "absolute",
   "DIE_AREA": "0 0 168.53 111.15",
   "DESIGN_IS_CORE": 0,
-  "RT_MAX_LAYER": "Met4"
+  "RT_MAX_LAYER": "met4"
 }
